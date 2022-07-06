@@ -40,11 +40,15 @@ You can click the Preview link to take a look at your changes.
                     <br /> Jupyter
                 </td>
                 <td align="center" width="140" height="112.43">
+                    <img src="./assets/node.png" width="65px"/>
+                    <br /> Node js
+                </td>
+                <td align="center" width="140" height="112.43">
                     <img src="./assets/tensorflow.png" width="65px"/>
                     <br /> TensorFlow
                 </td>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/icons/scikitlearn.png" width="65px"/>
+                    <img src="./assets/scikitlearn.png" width="65px"/>
                     <br /> Scikit Learn
                 </td>
                 <td align="center" width="140" height="112.43">
