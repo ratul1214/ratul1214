@@ -32,15 +32,15 @@ You can click the Preview link to take a look at your changes.
         <table align="center">
             <tr>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/icons/python.jpeg" width="65px"/>
+                    <img src="./assets/python.jpeg" width="65px"/>
                     <br /> Python
                 </td>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/icons/jupyter.png" width="65px"/>
+                    <img src="./assets/jupyter.png" width="65px"/>
                     <br /> Jupyter
                 </td>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/icons/tensorflow.png" width="65px"/>
+                    <img src="./assets/tensorflow.png" width="65px"/>
                     <br /> TensorFlow
                 </td>
                 <td align="center" width="140" height="112.43">
@@ -48,11 +48,11 @@ You can click the Preview link to take a look at your changes.
                     <br /> Scikit Learn
                 </td>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/icons/fastapi.png" width="65px"/>
+                    <img src="./assets/fastapi.png" width="65px"/>
                     <br /> FastAPI
                 </td>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/icons/docker.png" width="65px"/>
+                    <img src="./assets/docker.png" width="65px"/>
                     <br /> Docker
                 </td>
             </tr>
@@ -62,9 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### Important Repository
 
-💾 365 Days of Computer Vision - [🔗](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post)
 
 ---
 
