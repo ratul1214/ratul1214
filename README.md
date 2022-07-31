@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 - ### Hi there, I'm Alam Al Saud👋
   
-  [![Website](https://img.shields.io/website?label=ashishpatel26&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/alam-al-saud/)
+  (https://www.linkedin.com/in/alam-al-saud/)
  
   ## I'm a Fullstack developer , Data Scientist, AI Researcher, Machine Learning Engineer [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
     ![Ashish Patel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratul1214&show_icons=true&theme=algolia)
