@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
     ![Ashish Patel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratul1214&show_icons=true&theme=algolia)
   ---
 
-  * 🔭 I am Currently working as **Fullstack Developer and Data Scientist** at [Sincos 🦢](http://www.sincosbd.com/)
+  * 🔭 I am Currently working as **Data Engineer** at [Mi-C3 🦢](https://mi-c3.com/)
 
   - 🌱 I’m currently Learning  MLOPS😎.
   
