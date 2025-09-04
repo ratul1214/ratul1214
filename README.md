@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
   - 🌱 I’m currently Learning  MLOPS😎.
   
-  - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
+  - 🥅 2025 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 
   - ⚡ Fun fact: I love to code.
   
