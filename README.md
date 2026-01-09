@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
   - ⚡ Fun fact: I love to code.
   
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratul1214&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+   
     
       
     
