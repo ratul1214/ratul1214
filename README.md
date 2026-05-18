@@ -127,39 +127,6 @@ Built IoT data pipelines with AWS Glue, trained anomaly-detection models on Sage
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ratul1214&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul1214&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratul1214&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## ⏱️ Coding Activity (Wakatime)
-
-<!-- Updates weekly via GitHub Action — see setup notes below -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ratul1214&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime stats" />
-
----
-
-## 🎧 Currently Listening On Spotify
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify now playing" />
-  </a>
-</p>
-
----
-
 ## 📫 Get in Touch
 
 <p>
